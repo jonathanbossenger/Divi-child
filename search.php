@@ -2,6 +2,7 @@
 
 <div id="main-content">
 	<div class="container">
+		<h1>Search results</h1>	
 		<div id="content-area" class="clearfix">
 			<div id="left-area">
 		<?php
